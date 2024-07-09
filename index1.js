@@ -74,7 +74,7 @@ if (navClose) {
 }
 const element= document.getElementById("text");
 
-const prases=["Web Development","Machine Learning","Competitive Coding"];
+const prases=["Web Development","Competitive Coding"];
 let letterindex=0;
 let phraseindex=0;
 function printletter(prase)
